@@ -15,7 +15,7 @@ Its primary function is to transport pieces along conveyor belts.
 Sensors detect these pieces, which are then temporarily held in designated spaces that simulate processing stations.
 Pieces circulate within the plant indefinitely, continuously transitioning between different conveyor belts without a predetermined end.
 
-<img alt="" src="readme-images/plant.png" height=170px/>
+<img alt="" src="readme-images/plant.png"/>
 
 <h2>Objective</h2>
 
