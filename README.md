@@ -1,4 +1,4 @@
-<h1>Model checking project with Uppaal</h1>
+<h1>Model checking project (Uppaal)</h1>
 
 [![License: MIT][license-image]][license]
 
