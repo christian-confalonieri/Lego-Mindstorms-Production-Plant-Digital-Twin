@@ -1,4 +1,4 @@
-<h1>FM Homework</h1>
+<h1>FM course project</h1>
 
 [![License: MIT][license-image]][license]
 
