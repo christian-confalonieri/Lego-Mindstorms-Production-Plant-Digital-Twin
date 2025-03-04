@@ -30,5 +30,5 @@ This project is copyright 2023.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
-[license]: https://github.com/christian-confalonieri/Formal-Methods-for-Concurrent-and-Real-Time-Systems-2022-2023/blob/main/LICENSE
+[license]: https://github.com/christian-confalonieri/Lego-Mindstorms-Production-Plant-Digital-Twin/blob/main/LICENSE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
